@@ -8,7 +8,7 @@ function UserComponent(){
             <div id="child1">
 
                 <div className="myname">
-                    <h1>Albert </h1>
+                    <h1>Albert Sebastian </h1>
                     <button>Follow</button>
                 </div>
 
