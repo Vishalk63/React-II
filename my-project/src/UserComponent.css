@@ -1,0 +1,61 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+    
+#container{
+    /* background-color: red; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 15px;
+    width: 95%;
+    height: auto;
+    display: flex;
+    margin: 20px;
+}
+
+#child1{
+    /* background-color: aqua; */
+    width: 60%;
+    /* height: auto; */
+    margin: 10px;
+    padding: 20px 50px;
+}
+
+#child2{
+    /* background-color: antiquewhite; */
+    border-radius: 15px;
+    width: 30%;
+    /* margin: 10px; */
+    display: flex;
+    align-items: center;
+}
+
+#child2 img{
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.myname{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: 500;
+    background-color: black;
+    border-radius: 8Px;
+    color: white;
+}
+
+button:hover{
+    background-color:rgb(12, 109, 255);
+}
+
+h1{
+    font-size: 50px;
+    /* font-weight: 500; */
+}
