@@ -1,0 +1,29 @@
+#container{
+    text-align: center;
+}
+
+.parent{
+    /* background-color: bisque; */
+    padding: 20px;
+    border: 1px solid white;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.btn{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    /* background-color: aliceblue; */
+    justify-content: space-around;
+}
+
+input{
+    padding: 10px 30px;
+}
+
+.main{
+    margin-bottom: 40px;
+}
